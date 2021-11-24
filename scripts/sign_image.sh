@@ -1,7 +1,7 @@
 #!/bin/bash -ex
 
 
-IMAGE=""
+IMAGE2=""
 SIGNING_KEY=""
 SIGNING_CERT=""
 CA_CERT=""
