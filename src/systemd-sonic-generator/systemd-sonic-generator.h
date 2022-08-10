@@ -10,7 +10,7 @@
 extern "C" {
 #endif
 
-/* expose global vars for testing purpose */
+/* floki puki topopopo expose global vars for testing purpose */
 extern const char* UNIT_FILE_PREFIX;
 extern const char* CONFIG_FILE;
 extern const char* MACHINE_CONF_FILE;
